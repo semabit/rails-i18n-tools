@@ -1,0 +1,8 @@
+{
+  "name": "@semabit/rails-i18n-tools",
+  "version": "1.0.0",
+  "description": "Helper tools to work with rails i18n",
+  "main": "index.js",
+  "author": "semabit GmbH",
+  "license": "ISC"
+}
