@@ -4,5 +4,13 @@
   "description": "Helper tools to work with rails i18n",
   "main": "index.js",
   "author": "semabit GmbH",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semabit/rails-i18n-tools.git"
+  },
+  "bugs": {
+    "url": "https://github.com/semabit/rails-i18n-tools/issues"
+  },
+  "homepage": "https://github.com/semabit/rails-i18n-tools#readme"
 }
