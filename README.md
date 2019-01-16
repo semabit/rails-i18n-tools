@@ -2,12 +2,16 @@
 
 ## Installation
 
-```
-# TBD
+```bash
+npm install @semabit/rails-i18n-tools
 ```
 
 ## Usage
 
-```
-# TBD
+```js
+import {i18nArModel} from "@semabit/rails-i18n-tools";
+
+
+const book = translate(i18nArModel('book.one'));
+
 ```
